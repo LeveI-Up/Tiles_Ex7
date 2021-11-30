@@ -14,3 +14,4 @@ The player need to reach to the gate in order to get to the next level.
   * Added GateToNextLevel script in order to load the next level [here](https://github.com/LeveI-Up/Tiles_Ex7/blob/main/Assets/Scripts/4-generation/GateToNextLevel.cs)
  
   for playing the game click [here](https://almogre.itch.io/tiles-ex7) 
+  Find the yellow gate to rich the next level GOOD LUCK!
